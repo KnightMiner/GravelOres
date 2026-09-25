@@ -127,13 +127,13 @@ ORES = {
         "overworld_chance": 450  # Mek: 65 + 6 + 8
     },
     "silver": {
-        "mods": ["allomancy", "cosmere", "eidolon", "embers", "galosphere", "immersiveengineering", "modern_industrialization", "oreganized", "projectred_exploration", "railcraft", "thermal"],
+        "mods": ["allomancy", "caverns_and_chasms", "cosmere", "eidolon", "embers", "galosphere", "immersiveengineering", "modern_industrialization", "oreganized", "projectred_exploration", "railcraft", "thermal"],
         "tier": "iron",
         "tag_drop": "raw_materials",
         "overworld_chance": 850  # Embers 4, Thermal 4
     },
     "tin": {
-        "mods": ["allomancy", "cosmere", "forestry", "mekanism", "metalborn", "modern_industrialization", "projectred_exploration", "railcraft", "thermal"],
+        "mods": ["allomancy", "caverns_and_chasms", "cosmere", "forestry", "mekanism", "metalborn", "modern_industrialization", "projectred_exploration", "railcraft", "thermal"],
         "tier": "stone",
         "tag_drop": "raw_materials",
         "overworld_chance": 650  # Mek: 14 + 12, Thermal 6

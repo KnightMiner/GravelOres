@@ -75,6 +75,10 @@
         },
         {
           "type": "neoforge:mod_loaded",
+          "modid": "caverns_and_chasms"
+        },
+        {
+          "type": "neoforge:mod_loaded",
           "modid": "cosmere"
         },
         {
