@@ -1,0 +1,23 @@
+{
+  "gravelores.gravelores": "ग्रेवल ओर्स",
+  "block.gravelores.iron_gravel_ore": "आयरन ग्रेवल ओर",
+  "block.gravelores.gold_gravel_ore": "गोल्ड ग्रेवल ओर",
+  "block.gravelores.copper_gravel_ore": "कॉपर ग्रेवल ओर",
+  "block.gravelores.diamond_gravel_ore": "डायमंड ग्रेवल ओर",
+  "block.gravelores.emerald_gravel_ore": "एमराल्ड ग्रेवल ओर",
+  "block.gravelores.quartz_gravel_ore": "क्वार्ट्ज़ ग्रेवल ओर",
+  "block.gravelores.coal_gravel_ore": "कोल ग्रेवल ओर",
+  "block.gravelores.redstone_gravel_ore": "रेडस्टोन ग्रेवल ओर",
+  "block.gravelores.lapis_gravel_ore": "लापिस ग्रेवल ओर",
+  "block.gravelores.aluminum_gravel_ore": "एल्युमिनियम ग्रेवल ओर",
+  "block.gravelores.cadmium_gravel_ore": "कैडमियम ग्रेवल ओर",
+  "block.gravelores.chromium_gravel_ore": "क्रोमियम ग्रेवल ओर",
+  "block.gravelores.cobalt_gravel_ore": "कोबाल्ट ग्रेवल ओर",
+  "block.gravelores.lead_gravel_ore": "लेड ग्रेवल ओर",
+  "block.gravelores.nickel_gravel_ore": "निकेल ग्रेवल ओर",
+  "block.gravelores.osmium_gravel_ore": "ऑस्मियम ग्रेवल ओर",
+  "block.gravelores.silver_gravel_ore": "सिल्वर ग्रेवल ओर",
+  "block.gravelores.tin_gravel_ore": "टिन ग्रेवल ओर",
+  "block.gravelores.uranium_gravel_ore": "यूरेनियम ग्रेवल ओर",
+  "block.gravelores.zinc_gravel_ore": "जिंक ग्रेवल ओर"
+}
